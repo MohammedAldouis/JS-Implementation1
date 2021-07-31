@@ -1,0 +1,18 @@
+div{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+h1{
+    color: rgb(4, 126, 87);
+}
+button{
+    background-color: rgb(4, 126, 87);
+    color: white;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+}
