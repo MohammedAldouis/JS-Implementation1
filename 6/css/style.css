@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.meta .one{
+background-color: white;
+font-size: 30px;
+margin-left: 10px;
+float: left;
+width: 300px;
+text-align: center;
+}
+@media (max-width:600px){
+    .meta .one{
+        width: 140px;
+        font-size: 20px;
+        margin-left: 5px;
+        color: teal;
+    }
+    
+}
