@@ -1,0 +1,16 @@
+.one{
+    width: 500px;
+    height: 500px;
+    border: 2px blue solid;
+    position: relative;
+    left: 30%;
+    top: 100px;
+} 
+.one .two{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
